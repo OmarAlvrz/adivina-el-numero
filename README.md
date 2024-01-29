@@ -1,4 +1,5 @@
-##INICIO
+> [!NOTE]
+> INICIO
 ![image](https://github.com/OmarAlvrz/adivina-el-numero/assets/127577075/ae20b7ae-a5f1-40d1-bfe3-8201473681b4)
 
 ##PRIMEROS 3 INTENTOS:
